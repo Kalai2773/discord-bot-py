@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="//discord.gg/https://discord.gg/JcFgWTKupR"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/Kalai2773/discord-py-bot"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/Kalai2773/discord-py-bot"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/Kalai2773/discord-py-bot/total"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Kalai2773/discord-py-bot"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/Kala2773i/discord-py-bot"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/issues"><img src="https://img.shields.io/github/issues-raw/Kalai2773/discord-py-bot"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/Kalai2773/discord-bot-py"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/Kalai2773/discord-bot-py"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/Kalai2773/discord-bot-py/total"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Kalai2773/discord-bot-py"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/Kala2773i/discord-bot-py"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/issues"><img src="https://img.shields.io/github/issues-raw/Kalai2773/discord-bot-py"></a>
 </p>
 
 This repository is a template that everyone can use for the start of their discord bot.
@@ -24,7 +24,7 @@ If you plan to use this template to make your own template or bot, you **have to
 - Keep the credits, and a link to this repository in all the files that contains my code
 - Keep the same license for unchanged code
 
-See [the license file](https://github.com/kkrypt0nn/Kalai2773/discord-py-bot/blob/master/LICENSE.md) for more
+See [the license file](https://github.com/kkrypt0nn/Kalai2773/discord-bot-py/blob/master/LICENSE.md) for more
 information, I reserve the right to take down any repository that does not meet these requirements.
 
 ## Support
@@ -126,7 +126,7 @@ python bot.py
 ## Versioning
 
 We use [SemVer](http://semver.org) for versioning. For the versions available, see
-the [tags on this repository](https://github.com/Kalai2773/discord-py-bot/tags).
+the [tags on this repository](https://github.com/Kalai2773/discord-bot-py/tags).
 
 ## Built With
 
