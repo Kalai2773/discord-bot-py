@@ -1,12 +1,12 @@
 # discord-bot-py
 
 <p align="center">
-  <a href="//discord.gg/https://discord.gg/JcFgWTKupR"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
+  <a href="//discord.gg/JcFgWTKupR"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/Kalai2773/discord-bot-py"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/Kalai2773/discord-bot-py"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/Kalai2773/discord-bot-py/total"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Kalai2773/discord-bot-py"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/Kala2773i/discord-bot-py"></a>
+  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/Kala2773/discord-bot-py"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/issues"><img src="https://img.shields.io/github/issues-raw/Kalai2773/discord-bot-py"></a>
 </p>
 
